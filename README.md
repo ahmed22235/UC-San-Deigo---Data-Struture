@@ -27,3 +27,5 @@ This repository contains my solutions to the **Data Structures** course assignme
 - Learned how to balance between **space complexity** and **time complexity** for optimal solutions.
 
 ---
+## Certificate and Skills
+https://coursera.org/share/822778a996984cd1d7d25fb9bc97f43a
